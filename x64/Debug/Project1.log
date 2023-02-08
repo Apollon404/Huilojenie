@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\Acer\source\repos\Project1\Header.h(121,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(134,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(149,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(152,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(155,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(171,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(179,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(182,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(185,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\Header.h(188,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\Project1\MyForm.h(1001,8): warning C4552: "!=": результат выражения не используется
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1104: не удается открыть файл "MSCOREE.lib"
